@@ -1,0 +1,5 @@
+{"mainfile":"images_and_numpy.py",
+"compilemenucommand":":> ./.testcaseop && python3 images_and_numpy.py",
+"runmenucommand":"python3 images_and_numpy.py",
+"viewtype":"file"
+}
